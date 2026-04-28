@@ -102,3 +102,13 @@ JWT_EXPIRES_IN=7d
 ## License
 
 MIT
+
+## Project Documents
+[SplitIt_PresentationFinal.pdf](https://github.com/user-attachments/files/27159088/SplitIt_PresentationFinal.pdf)
+[splitIt_projectReport_final.pdf](https://github.com/user-attachments/files/27159079/splitIt_projectReport_final.pdf)
+[DBMS_Course_Evaluation_Report_gagan.pdf](https://github.com/user-attachments/files/27159294/DBMS_Course_Evaluation_Report_gagan.pdf)
+[DBMS_Course_Evaluation_Report_gauri.pdf](https://github.com/user-attachments/files/27159299/DBMS_Course_Evaluation_Report_gauri.pdf)
+
+
+
+
